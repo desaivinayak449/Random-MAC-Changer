@@ -45,9 +45,7 @@ This script is intended strictly for educational and authorized penetration test
 MIT License
 
 ✍️ Author
-
-
+https://github.com/desaivinayak449/Random-MAC-Changer.git
 ---
 
 Let me know if you'd like me to initialize this repo for you or create the files in a downloadable format.
-
